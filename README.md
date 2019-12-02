@@ -1,0 +1,1 @@
+This is kobrux first git project
